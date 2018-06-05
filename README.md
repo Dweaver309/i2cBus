@@ -1,7 +1,7 @@
 # i2cBus
 I2c bus for .Net Micro Framework written in VB and C#  
 
-The SS1306 OLED and 24LC256 EEprom source code files above was modified
+The SS1306 OLED and 24LC256 EEprom source code files above were modified
 
 from the links below for the i2c bus.
 
